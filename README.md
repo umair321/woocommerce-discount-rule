@@ -1,4 +1,6 @@
-This plugin is customized from **Discount Rules for WooCommerce** (https://wordpress.org/plugins/woo-discount-rules/) for my own website and can be use to implement site wide discount
+This plugin is customized from **Discount Rules for WooCommerce** (https://wordpress.org/plugins/woo-discount-rules/) for my own website and can be use to implement site wide discount. 
+
+Designed for B2C websites and not suitable for B2B.
 
 # Features
 1. Apply side wide discount

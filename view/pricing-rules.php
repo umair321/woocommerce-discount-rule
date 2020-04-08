@@ -95,7 +95,7 @@ $current_language = FlycartWooDiscountRulesGeneralHelper::getWPMLLanguage();
                                         <a href=javascript:void(0) class="btn btn-primary"><?php esc_html_e('You Reach Max. Rule Limit', 'woo-discount-rules'); ?></a>
                                     <?php } else {
                                     ?>
-                                        <a style="display: none;" href="?page=woo_discount_rules&type=new" id="add_new_rule" class="btn btn-primary"><?php esc_html_e('Add New Rule', 'woo-discount-rules'); ?></a>
+                                        <a href="?page=woo_discount_rules&type=new" id="add_new_rule" class="btn btn-primary"><?php esc_html_e('Add New Rule', 'woo-discount-rules'); ?></a>
                                 <?php
                                     }
                                 }
