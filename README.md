@@ -3,6 +3,6 @@ This plugin is customized from **Discount Rules for WooCommerce** (https://wordp
 Designed for B2C websites and not suitable for B2B.
 
 # Features
-1. Apply side wide discount
+1. Apply site wide discount
 2. Option to exclude products already having sale price setting in product consile of woocomrce
 3. Apply discount on sale price if above option is not checked
